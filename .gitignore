@@ -1,0 +1,16 @@
+# Environments
+.env
+
+# Dependencies
+venv/
+env/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Mac
+.DS_Store
